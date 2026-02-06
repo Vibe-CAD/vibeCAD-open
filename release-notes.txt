@@ -1,1 +1,4 @@
+2026-02-06: update to some core functionality is ongoing. Expect performance issues until 2026-02-09.
+
 Initial version of release notes!
+
