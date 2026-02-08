@@ -1,4 +1,7 @@
+2026-02-08: Login is still disabled due to issues with the 3D engine preload. Login and most core AI features expected to be back online 2026-02-09. Paying customers will recieve some extra API calls as compensation for the unforeseen downtime.
+
 2026-02-06: Login is temporarily disabled for patching
+
 2026-02-06: A recent patch introduced some unexpected behaviour in the viewer. An update to some core functionality is ongoing. Expect performance issues until 2026-02-09.
 
 
