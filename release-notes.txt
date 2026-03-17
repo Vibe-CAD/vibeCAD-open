@@ -1,3 +1,5 @@
+2026-03-17: Login temporarily disabled for patching
+
 2026-02-21: Login temporarily disabled for patching
 
 2026-02-09: Login is now available. Some optimization to the CAD kernel is still needed, so expect a slightly longer than wanted loading for the page. 
