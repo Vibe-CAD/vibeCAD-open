@@ -1,3 +1,5 @@
+2026-04-02: Extended patching and rework during w15. Service will be disabled 
+
 2026-03-17: Login temporarily disabled for patching
 
 2026-02-21: Login temporarily disabled for patching
