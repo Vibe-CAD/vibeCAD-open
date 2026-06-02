@@ -1,3 +1,5 @@
+2026-06-02: Part parameters can now be updated after creation, this makes it easier to correct the LLM output.
+
 2026-06-01: Added pay-per-use price and updated some UI elements. Projects will be available soon!
 
 2026-04-28: Updates are rolling out for the part compiler. Some updates will be made to the viewer aswell, login will temporarily be disabled for non-subscribers!
