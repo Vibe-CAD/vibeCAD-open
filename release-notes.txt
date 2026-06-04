@@ -1,3 +1,5 @@
+2026-06-04: Updates to the compiler logic broke some geometries; part generation should now be more stable
+
 2026-06-02: Part parameters can now be updated after creation, this makes it easier to correct the LLM output.
 
 2026-06-01: Added pay-per-use price and updated some UI elements. Projects will be available soon!
