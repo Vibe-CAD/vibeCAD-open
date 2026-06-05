@@ -1,3 +1,5 @@
+2026-06-06: Added support for 3MF file viewing. Compatible with for instance BambuStudio/OrcaSlicer 3MF
+
 2026-06-05: Optimizations to the part generation pipeline is on the way in an upcomming patch later today, continuous improvements should be noticed during the next couple of weeks
 
 2026-06-04: Updates to the compiler logic broke some geometries; part generation should now be more stable
