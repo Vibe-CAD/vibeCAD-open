@@ -1,3 +1,7 @@
+2026-06-08: Improvements on mobile web UI rolling out through the day. 
+Performance improvements should result in faster multi-part generation.
+Improved quality of many parts.
+
 2026-06-07: Improved assistant functionality and quality of many parts. Improved UI of changing parameters of parts
 
 2026-06-06: Added support for 3MF file viewing. Compatible with for instance BambuStudio/OrcaSlicer 3MF
