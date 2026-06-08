@@ -1,3 +1,5 @@
+2026-06-08: A handbook / user manual is in the works. 
+
 2026-06-08: Improvements on mobile web UI rolling out through the day. 
 Performance improvements should result in faster multi-part generation.
 Improved quality of many parts.
