@@ -1,3 +1,5 @@
+2026-06-09: Added a confirmation step on part generation. Improvements to the harness should result in better assistant comprehension and improved quality of many parts.
+
 2026-06-08: A handbook / user manual is in the works. 
 
 2026-06-08: Improvements on mobile web UI rolling out through the day. 
