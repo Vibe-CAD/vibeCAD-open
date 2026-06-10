@@ -1,3 +1,5 @@
+2026-06-10: Parts and Multi-part assemblies are now automatically loaded in the viewer, currently in the .step. 
+
 2026-06-10: Registration for the beta is currently maxed out, we will monitor performance and then increase the user cap.
 
 ! 2026-06-09: Fixed an issue with "Manage Subscription" and the Stripe-hosted customer portal. Some UI updates to the dashboard.
