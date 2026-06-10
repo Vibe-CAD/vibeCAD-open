@@ -1,4 +1,4 @@
-2026-06-10: .step file format is now default. Files loaded in the viewer can be exported as .stl, .step or .3MF via the respective export buttons in the viewer. 
+2026-06-11: .step file format is now default. Files loaded in the viewer can be exported as .stl, .step or .3MF via the respective export buttons in the viewer. 
 
 2026-06-10: User cap increased to test optimizations. Performance improvements to part assemblies.
 
