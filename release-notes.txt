@@ -1,3 +1,8 @@
+!2026-06-11: Assemblies are only loaded in the viewer if confidence is high that placement is decent. Tuning is ongoing.
+
+2026-06-11: Price for pay-as-you-go (5 prompts) is now 2 Eur, down from 3.
+Added a simple user guide on the homepage and a banner in the viewer.
+
 2026-06-11: .step file format is now default. Files loaded in the viewer can be exported as .stl, .step or .3MF via the respective export buttons in the viewer. 
 
 2026-06-10: User cap increased to test optimizations. Performance improvements to part assemblies.
