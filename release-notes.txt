@@ -1,3 +1,5 @@
+!2026-06-12: Performance improvements should see parts generating faster, and the UX is improved. A timing issue in the service infrastructure was resolved and long running API calls should no longer report "timed-out".
+
 !2026-06-11: Assemblies are only loaded in the viewer if confidence is high that placement is decent. Tuning is ongoing.
 Single part requests should automatically loaded again.
 
