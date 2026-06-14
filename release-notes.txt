@@ -1,3 +1,5 @@
+2026-06-13: Improved UX and UI in the viewer. Logins now directly load into the viewer. Added a "Generate example" that demonstrates the flow to new users and provides parts to explore features with. Updated many parameters. A change parameters call on a part with new parameters may be needed for new parameters to take effect. An example of new parameters are locations mounting holes, which can now be repositioned via a change of parameters.
+
 2026-06-12: Improved UX in the viewer. Improved performance and improved quality of many parts. 
 
 !2026-06-12: Performance improvements should see parts generating faster, and the UX is improved. A timing issue in the service infrastructure was resolved and long running API calls should no longer report "timed-out".
