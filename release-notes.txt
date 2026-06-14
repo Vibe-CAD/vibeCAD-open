@@ -1,3 +1,5 @@
+2026-06-14: The modify part and change parameters features are now available via the "Modify part" and "Parameters" tabs directly on parts in the viewer. A change of parameters reloads the part directly in the viewer. "Modify part" still requires loading the new part in to the viewer.
+
 2026-06-14: If there is a dimension mistake in the prompt or in the event that the AI misinterprets a dimension, some of the geometry of the generated part might not show correctly. Always review the "Parameters" tab (right click on part for PC/double tap on part for mobile) to inspect and edit the geometry. This recommendation has been added to the "viewer tips" banner.
 
 2026-06-13: Login now directly loads into the viewer. Added a "Generate example" button that demonstrates the flow to new users and provides parts to explore features with. Improved UX and UI in the viewer. Updated many parameters. An example of new parameters are the locations of mounting holes, which can now be repositioned via a change of parameters.
