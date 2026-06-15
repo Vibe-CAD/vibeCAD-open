@@ -1,9 +1,3 @@
-2026-06-15: Added a "move gizmo" for better UX when working with repositioning parts in the viewer. 
-
-2026-06-14: Improved UX for "Modify part".
-
-2026-06-13: Login now directly loads into the viewer.
-
 2026-06-12: Improved UX in the viewer. Improved performance and improved quality of many parts. 
 
 2026-06-12: Performance improvements should see parts generating faster. 
