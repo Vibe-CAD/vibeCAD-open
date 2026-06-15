@@ -14,7 +14,7 @@
 Single part requests should automatically loaded again.
 
 2026-06-11: Price for pay-as-you-go (5 prompts) is now 2 Eur, down from 3.
-Added a simple user guide on the homepage and a banner in the viewer.
+
 
 2026-06-11: .step file format is now default. Files loaded in the viewer can be exported as .stl, .step or .3MF via the respective export buttons in the viewer. 
 
