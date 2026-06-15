@@ -1,10 +1,10 @@
+2026-06-15: Quick guide now available in the viewer tool bar.
+
 2026-06-12: Improved UX in the viewer. Improved performance and improved quality of many parts. 
 
 2026-06-12: Performance improvements should see parts generating faster. 
 
-
 2026-06-11: Price for pay-as-you-go (5 prompts) is now 2 Eur, down from 3.
-
 
 2026-06-11: .step file format is now default. Files loaded in the viewer can be exported as .stl, .step or .3MF via the respective export buttons in the viewer. 
 
@@ -24,8 +24,7 @@
 
 2026-06-08: A handbook / user manual is in the works. 
 
-2026-06-08: Improvements on mobile web UI rolling out through the day. 
-Performance improvements should result in faster multi-part generation.
+2026-06-08: Improvements on mobile web UI rolling out through the day. Performance improvements should result in faster multi-part generation.
 Improved quality of many parts.
 
 2026-06-07: Improved assistant functionality and quality of many parts. Improved UI of changing parameters of parts
