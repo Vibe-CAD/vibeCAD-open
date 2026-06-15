@@ -1,17 +1,13 @@
-2026-06-15: Added a "move gizmo" for better UX when working with repositioning parts in the viewer. Some tuning for mobile still needed.
+2026-06-15: Added a "move gizmo" for better UX when working with repositioning parts in the viewer. 
 
-2026-06-14: The modify part and change parameters features are now available via the "Modify part" and "Parameters" tabs directly on parts in the viewer. A change of parameters reloads the part directly in the viewer. "Modify part" still requires loading the new part in to the viewer.
+2026-06-14: Improved UX for "Modify part".
 
-2026-06-14: If there is a dimension mistake in the prompt or in the event that the AI misinterprets a dimension, some of the geometry of the generated part might not show correctly. Always review the "Parameters" tab (right click on part for PC/double tap on part for mobile) to inspect and edit the geometry. This recommendation has been added to the "viewer tips" banner.
-
-2026-06-13: Login now directly loads into the viewer. Added a "Generate example" button that demonstrates the flow to new users and provides parts to explore features with. Improved UX and UI in the viewer. Updated many parameters. An example of new parameters are the locations of mounting holes, which can now be repositioned via a change of parameters.
+2026-06-13: Login now directly loads into the viewer.
 
 2026-06-12: Improved UX in the viewer. Improved performance and improved quality of many parts. 
 
-!2026-06-12: Performance improvements should see parts generating faster, and the UX is improved. A timing issue in the service infrastructure was resolved and long running API calls should no longer report "timed-out".
+2026-06-12: Performance improvements should see parts generating faster. 
 
-!2026-06-11: Assemblies are only loaded in the viewer if confidence is high that placement is decent. Tuning is ongoing.
-Single part requests should automatically loaded again.
 
 2026-06-11: Price for pay-as-you-go (5 prompts) is now 2 Eur, down from 3.
 
