@@ -1,3 +1,5 @@
+2026-06-22: Updates to performance and part quality, in particular the changeable parameters.
+
 2026-06-15: Quick guide now available in the viewer tool bar.
 
 2026-06-12: Improved UX in the viewer. Improved performance and improved quality of many parts. 
