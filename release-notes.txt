@@ -1,4 +1,4 @@
-2026-07-15: Performance improvements. improved viewer UX. Agent mode is a big update coming soon.
+2026-07-15: Performance improvements. improved viewer UX.
 
 2026-06-22: Updates to performance and part quality, in particular the changeable parameters.
 
